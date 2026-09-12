@@ -1,0 +1,6 @@
+{
+  "name": "School Management Portal ERP",
+  "description": "Comprehensive School ERP portal for academic, administrative, student, teacher, fee, exam, attendance, transport, and operational management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
